@@ -1,2 +1,2 @@
-Spanish: https://edefakiel.github.io/Synth-v2/Synth 2.4.2.html
-English: https://edefakiel.github.io/Synth-v2/Synth 2.4.2_en.html
+Spanish: https://edefakiel.github.io/Synth-v2/Synth_2.4.2.html
+English: https://edefakiel.github.io/Synth-v2/Synth_2.4.2_en.html
